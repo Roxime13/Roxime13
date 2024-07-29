@@ -1,6 +1,5 @@
 # 🌟 **¡Hola, soy Roxime13  !** 🌟
 
-![Programador en Acción](https://media.giphy.com/media/3o6Zt5PjI3VvA8b7XG/giphy.gif)
 
 ## 🌈 **Sobre Mí** 🌈
 
@@ -24,9 +23,6 @@ Aquí hay un poco más sobre mí:
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
-
-- ![Animación Lateral Izquierda](https://media.giphy.com/media/26uf6nyCThWZPrPsc/giphy.gif) 
-- ![Animación Lateral Derecha](https://media.giphy.com/media/3o6Zt5PjI3VvA8b7XG/giphy.gif) 
 
 ## 🎬 **¡Sígueme en la Aventura!** 🎬
 
