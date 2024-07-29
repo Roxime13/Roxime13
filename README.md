@@ -34,4 +34,4 @@ Aquí hay un poco más sobre mí:
 
 ¡Gracias por visitar mi perfil! Cada proyecto es una nueva etapa en el viaje, y me encantaría conectarme contigo para explorar nuevas aventuras juntos. 🌟✨
 
-[Chihiro y Haku](https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.lapausadelrender.com%2Fanimacion%2Fmi-vecino-miyazaki%2F&psig=AOvVaw2ov4sQxEDfLT_ZLNaQ3CW8&ust=1722340650828000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJCMr4mZzIcDFQAAAAAdAAAAABAE)
+![Chihiro y Haku]([https://media.giphy.com/media/l0HlHqz1CzIV7sbO4/giphy.gif](https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.lapausadelrender.com%2Fanimacion%2Fmi-vecino-miyazaki%2F&psig=AOvVaw2ov4sQxEDfLT_ZLNaQ3CW8&ust=1722340650828000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJCMr4mZzIcDFQAAAAAdAAAAABAE))
