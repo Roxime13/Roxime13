@@ -1,10 +1,10 @@
-# 🌟 **¡Hola, soy  !** 🌟
+# 🌟 **¡Hola, soy Roxime13  !** 🌟
 
-![Totoro Programando](https://media.giphy.com/media/3o6Zt5PjI3VvA8b7XG/giphy.gif)
+![Programador en Acción](https://media.giphy.com/media/3o6Zt5PjI3VvA8b7XG/giphy.gif)
 
 ## 🌈 **Sobre Mí** 🌈
 
-¡Bienvenido a mi rincón en GitHub! Soy **[Tu Nombre]**, un/a **[tu profesión o especialidad]** con un amor por **[tu área de interés o especialización]**. En mi mundo, cada proyecto es una aventura mágica, al igual que el viaje de Chihiro. 🌟
+¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** . En mi mundo, cada proyecto es una aventura mágica, al igual que el viaje de Chihiro. 🌟
 
 Aquí hay un poco más sobre mí:
 
@@ -24,8 +24,14 @@ Aquí hay un poco más sobre mí:
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
+
+- ![Animación Lateral Izquierda](https://media.giphy.com/media/26uf6nyCThWZPrPsc/giphy.gif) 
+- ![Animación Lateral Derecha](https://media.giphy.com/media/3o6Zt5PjI3VvA8b7XG/giphy.gif) 
+
 ## 🎬 **¡Sígueme en la Aventura!** 🎬
 
 - [LinkedIn]((https://www.linkedin.com/in/sandra-rull-115899265/)) 💼
 
 ¡Gracias por visitar mi perfil! Cada proyecto es una nueva etapa en el viaje, y me encantaría conectarme contigo para explorar nuevas aventuras juntos. 🌟✨
+
+![Chihiro y Haku](https://media.giphy.com/media/l0HlHqz1CzIV7sbO4/giphy.gif)
