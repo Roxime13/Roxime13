@@ -14,7 +14,8 @@ Aquí hay un poco más sobre mí:
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
 - **Lenguajes de Programación:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-- **Frameworks y Librerías:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) ![Angular] (https://img.shields.io/badge/Angular-61DAFB?style=flat&logoColor=Red) 
+- **Frameworks y Librerías:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) [Angular]
+. (https://img.shields.io/badge/Angular-61DAFB?style=flat&logoColor=Red) 
 - **Herramientas:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)
 
 ## 📈 **Mis Estadísticas de GitHub** 📈
