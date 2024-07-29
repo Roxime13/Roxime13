@@ -5,7 +5,7 @@
 </div>
 
 <style>
-animacion-caja {
+#animacion-caja {
     display: flex;
     justify-content: center;
     align-items: center;
