@@ -1,38 +1,5 @@
 # 🌟 **¡Hola, soy Roxime13  !** 🌟
 
-<div id="animacion-caja">
-    <div class="animada-caja">Bienvenido a mi perfil de GitHub</div>
-</div>
-
-<style>
-#animacion-caja {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
-    background-color: #f0f0f0;
-    border-radius: 10px;
-    margin-top: 20px;
-}
-
-.animada-caja {
-    font-size: 20px;
-    padding: 10px 20px;
-    background-color: #007acc;
-    color: white;
-    border-radius: 5px;
-    animation: slide-in 2s ease-out infinite alternate;
-}
-
-@keyframes slide-in {
-    from {
-        transform: translateX(-100%);
-    }
-    to {
-        transform: translateX(100%);
-    }
-}
-</style>
 ## 🌈 **Sobre Mí** 🌈
 
 ¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** . En mi mundo, cada proyecto es una aventura mágica, al igual que el viaje de Chihiro. 🌟
