@@ -18,6 +18,7 @@ Aquí hay un poco más sobre mí:
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) 
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff) 
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
+  ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=ffffff)
 
 - **Frameworks y Librerías:** 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
