@@ -18,11 +18,10 @@ Aquí hay un poco más sobre mí:
 - 📚 **Aprendiendo:** **[Scala]**
 
 ```scala
-object HolaScala {
-  def main(args: Array[String]): Unit = {
+object HolaScala:
+  def main(args: Array[String]): Unit = 
     println("¡Hola, soy Roxime13 y estoy programando en Scala!")
-  }
-}
+
 ```
 - 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
 - 📫 **Contacto:** [(https://www.linkedin.com/in/sandra-rull-115899265/)] 
