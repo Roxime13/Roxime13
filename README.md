@@ -38,7 +38,7 @@ object HolaScala:
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
-[![Contribuciones](https://activity-graph.herokuapp.com/graph?username=Roxime13&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/Roxime13)
+![Repositorios](https://img.shields.io/github/followers/Roxime13?label=followers&style=social)
 
 ## 🎬 **¡Sígueme en la Aventura!** 🎬
 
