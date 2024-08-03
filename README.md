@@ -4,15 +4,6 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** . En mi mundo, cada proyecto es una aventura mágica, al igual que el viaje de Chihiro. 🌟
 
-      \\  //
-   ..    .  .. .                ______
-   ||    |  |   |  //\\  /\\    |  _  |
-   ||    |__|   | //  \\// \\   |    <  _
- __||    |  |   |//    \\/   \\ |__|__|_|
-     ___ |  | ___        __
-    /___\\  //   \\ |  | \\ \\      //
-   /     \\//     \\|__|  \\__\\    //
-
 Aquí hay un poco más sobre mí:
 
 - 📚 **Aprendiendo:** **[Scala]**
