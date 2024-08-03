@@ -38,7 +38,10 @@ object HolaScala:
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
-![Repositorios](https://img.shields.io/github/followers/Roxime13?label=followers&style=social)
+## 📂 **Mis Repositorios Más Populares** 📂
+
+[![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=Roxime13)](https://github.com/Roxime13)
+
 
 ## 🎬 **¡Sígueme en la Aventura!** 🎬
 
