@@ -2,7 +2,9 @@
 
 ## 🌈 **Sobre Mí** 🌈
 
-¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** . En mi mundo, cada proyecto es una aventura mágica, al igual que el viaje de Chihiro. 🌟
+¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
+
+![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)
 
 Aquí hay un poco más sobre mí:
 
