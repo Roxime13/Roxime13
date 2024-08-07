@@ -40,7 +40,7 @@ object HolaScala:
 
 ![veterinaria](https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df)
 
-Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los pacientes. Incluye el CRUD de gestión de la clínica. La aplicaicón está hecha con React. 
+Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los pacientes. Incluye el CRUD de gestión de la clínica. La aplicación está hecha con React. 
 
 ---
 
