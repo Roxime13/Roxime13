@@ -44,12 +44,13 @@ Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los 
 
 ---
 
-### 2. **Proyecto Beta: Plataforma de Comercio Electrónico**
-🔗 [Visitar Proyecto Beta](https://ejemplo.com/proyecto-beta)
+### 2. **Calculadora: **
+🔗 [calculadora](https://calculadoraop.netlify.app/)
 
-![Proyecto Beta](https://via.placeholder.com/600x400?text=Proyecto+Beta)
+![calculadora](https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1)
 
-_Descripción:_ Proyecto Beta es una plataforma de comercio electrónico intuitiva y escalable, diseñada para ofrecer una experiencia de usuario fluida y personalizada. Implementa **React** y **Node.js** para garantizar un rendimiento óptimo.
+
+Descripción:Creación de calculadora para realizar operaciones básicas
   
 ## 📈 **Mis Estadísticas de GitHub** 📈
 
