@@ -44,7 +44,7 @@ Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los 
 
 ---
 
-### 2. **Calculadora: **
+### 2. **Calculadora:**
 🔗 [calculadora](https://calculadoraop.netlify.app/)
 
 ![calculadora](https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1)
