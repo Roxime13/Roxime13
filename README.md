@@ -38,8 +38,7 @@ object HolaScala:
 ### 1. **Proyecto Formulario básico: Gestión de una clínica veterinaria**
 🔗 [Clínica veterinaria](https://formularibasic.netlify.app/)
 
-![veterinaria](![imagen](https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df)
-)
+![veterinaria](https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df)
 
 Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los pacientes. Incluye el CRUD de gestión de la clínica. La aplicaicón está hecha con React. 
 
