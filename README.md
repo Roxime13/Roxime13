@@ -32,6 +32,25 @@ object HolaScala:
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
+
+## 📚 **Proyectos Destacados**
+
+### 1. **Proyecto Formulario básico: Gestión de una clínica veterinaria**
+🔗 [Clínica veterinaria](https://formularibasic.netlify.app/)
+
+![Proyecto Alfa](https://via.placeholder.com/600x400?text=Proyecto+Alfa)
+
+Descripción:Gestión de una clínica veterinaria para dar de alta y baja a los pacientes. Incluye el CRUD de gestión de la clínica. La aplicaicón está hecha con React. 
+
+---
+
+### 2. **Proyecto Beta: Plataforma de Comercio Electrónico**
+🔗 [Visitar Proyecto Beta](https://ejemplo.com/proyecto-beta)
+
+![Proyecto Beta](https://via.placeholder.com/600x400?text=Proyecto+Beta)
+
+_Descripción:_ Proyecto Beta es una plataforma de comercio electrónico intuitiva y escalable, diseñada para ofrecer una experiencia de usuario fluida y personalizada. Implementa **React** y **Node.js** para garantizar un rendimiento óptimo.
+  
 ## 📈 **Mis Estadísticas de GitHub** 📈
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
