@@ -32,6 +32,8 @@ object HolaScala:
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 
 ## 📚 **Proyectos Destacados**
 
