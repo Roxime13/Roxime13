@@ -17,7 +17,6 @@ object HolaScala:
 
 ```
 - 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
-- 📫 **Contacto:** [(https://www.linkedin.com/in/sandra-rull-115899265/)] 
 
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
@@ -61,10 +60,4 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
 
-## 🎬 **¡Sígueme en la Aventura!** 🎬
 
-- [LinkedIn]((https://www.linkedin.com/in/sandra-rull-115899265/)) 💼
-
-¡Gracias por visitar mi perfil! Cada proyecto es una nueva etapa en el viaje, y me encantaría conectarme contigo para explorar nuevas aventuras juntos. 🌟✨
-
-![Viaje de Chihiro](https://i0.wp.com/www.lapausadelrender.com/wp-content/uploads/2016/10/viaje-de-chihiro.gif?resize=500%2C300)
