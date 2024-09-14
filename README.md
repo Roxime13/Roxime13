@@ -59,5 +59,12 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
+Espero que nos unamos en esta aventura!
+
+![imagen](https://github.com/user-attachments/assets/e6c54f53-2448-4eb7-9da3-f980f1aa78c7)
+
+
+
+
 
 
