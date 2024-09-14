@@ -4,7 +4,7 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
 
-![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)        ![imagen](https://github.com/user-attachments/assets/e6c54f53-2448-4eb7-9da3-f980f1aa78c7)
+![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)       
 
 Aquí hay un poco más sobre mí:
 
