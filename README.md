@@ -11,9 +11,27 @@ Aquí hay un poco más sobre mí:
 - 📚 **Aprendiendo:** **[Scala]**
 
 ```scala
-object HolaScala:
-  def main(args: Array[String]): Unit = 
-    println("¡Hola, soy Roxime13 y estoy programando en Scala!")
+¡Bienvenido al Laberinto de Fibonacci, Mago! 🌟
+Para avanzar, debes resolver el reto de cada habitación.
+
+🧙‍♂️ Estás en la primera habitación del laberinto.
+¿Cuál es el valor del número mágico en la sala #1 (Fibonacci 5)?
+Introduce tu respuesta (número):
+5
+¡Correcto! Puedes avanzar a la siguiente sala. 🎉
+
+🎩 Estás en la segunda sala. El número mágico ahora es Fibonacci #8.
+¿Cuál es el valor de Fibonacci 8?
+Introduce tu respuesta (número):
+21
+¡Bien hecho! Has superado la segunda sala. 🎉
+
+🚪 Llegaste a la última sala. El número mágico es Fibonacci #12.
+¿Qué número corresponde al Fibonacci #12?
+Introduce tu respuesta (número):
+144
+¡Has completado el laberinto de Fibonacci! 🏆
+Ahora eres un verdadero maestro de la magia de los números.
 
 ```
 - 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
