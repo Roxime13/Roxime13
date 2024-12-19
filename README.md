@@ -38,7 +38,8 @@ Ahora eres un verdadero maestro de la magia de los números.
 
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
-- **Lenguajes de Programación:** 
+- **Lenguajes de Programación:**
+ ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff) 
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=ffffff) 
@@ -46,8 +47,10 @@ Ahora eres un verdadero maestro de la magia de los números.
   ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=ffffff)
 
 - **Frameworks y Librerías:**
+ ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
