@@ -45,7 +45,8 @@ Ahora eres un verdadero maestro de la magia de los números.
   ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
   ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=ffffff)
 
-- **Frameworks y Librerías:** 
+- **Frameworks y Librerías:**
+  ![Play](https://img.shields.io/badge/Play-000000?style=flat&logo=playstation&logoColor=ffffff)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000) 
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
