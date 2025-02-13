@@ -13,15 +13,29 @@ Aquí hay un poco más sobre mí:
 ![Scala Dev](https://img.shields.io/badge/Scala-Developer-red?style=for-the-badge&logo=scala)
 
 ```scala
-@main def animacion(): Unit = {
-  val frames = List(
-    "   (o_o)   \n  <(   )>  \n   _/ \\_   ", 
-    "   (o_o)   \n  <(   )>💻\n   _/ \\_   "
-  )
-  for (i <- 1 to 10) {
-    print("\u001b[H\u001b[2J") // Limpia la terminal
-    println(frames(i % frames.length))
-    Thread.sleep(500)
+import scala.io.StdIn
+import scala.util.Random
+
+object AdivinaElNumero extends App {
+  val numeroSecreto = Random.nextInt(100) + 1
+  var intentos = 0
+  var adivinado = false
+
+  println("🎯 ¡Adivina el Número Secreto entre 1 y 100!")
+
+  while (!adivinado) {
+    print("👉 Ingresa tu número: ")
+    val numeroUsuario = StdIn.readInt()
+    intentos += 1
+
+    if (numeroUsuario == numeroSecreto) {
+      println(s"🎉 ¡Correcto! Lo adivinaste en $intentos intentos.")
+      adivinado = true
+    } else if (numeroUsuario > numeroSecreto) {
+      println("📉 Es menor.")
+    } else {
+      println("📈 Es mayor.")
+    }
   }
 }
 
