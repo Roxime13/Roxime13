@@ -61,6 +61,9 @@ object AdivinaElNumero extends App {
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1)](https://github.com/Roxime13)
+
+
 ## 📚 **Proyectos Destacados**
 
 ### 1. **Proyecto Formulario básico: Gestión de una clínica veterinaria**
