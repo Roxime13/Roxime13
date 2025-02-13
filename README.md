@@ -84,6 +84,8 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 ## 📈 **Mis Estadísticas de GitHub** 📈
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1)](https://github.com/Roxime13)
+  ![Visitas al perfil](https://komarev.com/ghpvc/?username=Roxime13&label=Visitas&color=blue&style=flat)
+
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
 
