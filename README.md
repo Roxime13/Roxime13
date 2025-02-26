@@ -70,7 +70,6 @@ object AdivinaElNumero extends App {
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 
-
 ## 📚 **Proyectos Destacados**
 
 ### 1. **Proyecto Formulario básico: Gestión de una clínica veterinaria**
