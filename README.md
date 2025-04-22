@@ -10,6 +10,8 @@ Aquí hay un poco más sobre mí:
 
 - 📚 **Aprendiendo:** **[Scala]**
 
+
+
 ![Scala Dev](https://img.shields.io/badge/Scala-Developer-red?style=for-the-badge&logo=scala)
 
 ```scala
@@ -40,7 +42,10 @@ object AdivinaElNumero extends App {
 }
 
 ```
-- 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
+💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
+☕ ¿Charlamos sobre código, café o ambos?
+📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
+
 
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
