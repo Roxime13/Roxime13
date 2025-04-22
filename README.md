@@ -43,7 +43,9 @@ object AdivinaElNumero extends App {
 
 ```
 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
+
 ☕ ¿Charlamos sobre código, café o ambos?
+
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
 
 
