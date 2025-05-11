@@ -61,7 +61,7 @@ object AdivinaElNumero extends App {
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
 
 - **Frameworks y Librerías:**
-  ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
+   ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -70,6 +70,7 @@ object AdivinaElNumero extends App {
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Phaser](https://img.shields.io/badge/Phaser-2d6df1?style=flat&logo=phaser&logoColor=ffffff)
+  ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=ffffff)
 
 - **Bases de Datos:**
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
