@@ -11,7 +11,6 @@ Aquí hay un poco más sobre mí:
 - 📚 **Aprendiendo:** **[Scala]**
 
 
-
 ![Scala Dev](https://img.shields.io/badge/Scala-Developer-red?style=for-the-badge&logo=scala)
 
 scala
@@ -43,6 +42,16 @@ object AdivinaElNumero extends App {
 
 
 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
+
+## 💖 Lo que me apasiona
+
+- ✨ Crear interfaces visuales atractivas y funcionales usando tecnologías modernas  
+- 📊 Resolver problemas lógicos y desafíos técnicos complejos  
+- 📚 Leer y escribir historias que inspiren y entretengan  
+- 🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
+- 🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
+- ⚛️ Mis tecnologías favoritas son React.js y Scala  
+- 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento  
 
 ☕ ¿Charlamos sobre código, café o ambos?
 
