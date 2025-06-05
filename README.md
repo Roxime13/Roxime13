@@ -4,7 +4,11 @@
 
 ¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
 
-![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)       
+<picture>
+  <source srcset="https://tu-gif-oscuro.gif" media="(prefers-color-scheme: dark)">
+  <source srcset="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" media="(prefers-color-scheme: light)">
+  <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="chica programando">
+</picture>  
 
 Aquí hay un poco más sobre mí:
 
@@ -107,9 +111,7 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
-☕ ¿Charlamos sobre código, café o ambos?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=40&lines=Estoy+aprendiendo+Scala...;Me+encanta+el+FullStack!;Siempre+café+en+mano+☕" alt="Typing SVG" />
 
 
 
