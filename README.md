@@ -53,10 +53,6 @@ object AdivinaElNumero extends App {
 - ⚛️ Mis tecnologías favoritas son React.js y Scala  
 - 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento  
 
-## ☕ ¿Charlamos sobre código, café o ambos?
-
-📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
-
 
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
@@ -115,3 +111,7 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
+
+## ☕ ¿Charlamos sobre código, café o ambos?
+
+📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
