@@ -47,7 +47,7 @@ object AdivinaElNumero extends App {
 
 - ✨ Crear interfaces visuales atractivas y funcionales usando tecnologías modernas  
 - 📊 Resolver problemas lógicos y desafíos técnicos complejos  
-- 📚 Leer y escribir historias que inspiren y entretengan  
+- 📚 Leer y escribir historias que inspiren, reflexionen y entretengan  
 - 🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
 - 🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
 - ⚛️ Mis tecnologías favoritas son React.js y Scala  
