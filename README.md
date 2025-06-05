@@ -53,7 +53,7 @@ object AdivinaElNumero extends App {
 - ⚛️ Mis tecnologías favoritas son React.js y Scala  
 - 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento  
 
-☕ ¿Charlamos sobre código, café o ambos?
+## ☕ ¿Charlamos sobre código, café o ambos?
 
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
 
