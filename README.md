@@ -107,6 +107,10 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 
 [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
+☕ ¿Charlamos sobre código, café o ambos?
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&height=40&lines=Estoy+aprendiendo+Scala...;Me+encanta+el+FullStack!;Siempre+café+en+mano+☕" alt="Typing SVG" />
+
 
 
 
