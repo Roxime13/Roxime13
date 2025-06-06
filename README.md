@@ -60,7 +60,7 @@ object AdivinaElNumero extends App {
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=3&width=1000" alt="Spotify recientemente escuchado" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=10&width=1000" alt="Spotify recientemente escuchado" />
   </a>
 </div>
 
