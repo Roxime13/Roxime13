@@ -53,7 +53,16 @@ object AdivinaElNumero extends App {
 - 🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
 - 🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
 - ⚛️ Mis tecnologías favoritas son React.js y Scala  
-- 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento  
+- 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento
+
+
+## 🎧La música que escucho 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sanrulljar">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=3&width=1000" alt="Spotify recently played" />
+  </a>
+</div>
 
 
 ## 🎨 **Mis Herramientas Mágicas** 🎨
