@@ -13,7 +13,8 @@ Aquí hay un poco más sobre mí:
 
 ![Scala Dev](https://img.shields.io/badge/Scala-Developer-red?style=for-the-badge&logo=scala)
 
-scala
+```scala
+
 import scala.io.StdIn
 import scala.util.Random
 
@@ -39,6 +40,7 @@ object AdivinaElNumero extends App {
     }
   }
 }
+```
 
 
 💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
