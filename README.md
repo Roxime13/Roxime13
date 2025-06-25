@@ -2,7 +2,7 @@
 
 ## 🌈 **Sobre Mí** 🌈
 
-¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, un/a **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
+¡Bienvenido a mi rincón en GitHub! Soy **[Roxime13]**, una **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
 
 ![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)       
 
