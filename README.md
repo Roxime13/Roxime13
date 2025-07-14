@@ -8,42 +8,10 @@
 
 Aquí hay un poco más sobre mí:
 
-- 📚 **Aprendiendo:** **[Scala]**
+- ☁️ **Actualmente cursando:** **AWS Cloud Practitioner Essentials**
 
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Scala Dev](https://img.shields.io/badge/Scala-Developer-red?style=for-the-badge&logo=scala)
-
-```scala
-
-import scala.io.StdIn
-import scala.util.Random
-
-object AdivinaElNumero extends App {
-  val numeroSecreto = Random.nextInt(100) + 1
-  var intentos = 0
-  var adivinado = false
-
-  println("🎯 ¡Adivina el Número Secreto entre 1 y 100!")
-
-  while (!adivinado) {
-    print("👉 Ingresa tu número: ")
-    val numeroUsuario = StdIn.readInt()
-    intentos += 1
-
-    if (numeroUsuario == numeroSecreto) {
-      println(s"🎉 ¡Correcto! Lo adivinaste en $intentos intentos.")
-      adivinado = true
-    } else if (numeroUsuario > numeroSecreto) {
-      println("📉 Es menor.")
-    } else {
-      println("📈 Es mayor.")
-    }
-  }
-}
-```
-
-
-💬 **Estudiando actualmente:** **[Desarrollador de Aplicaciones Web]**
 
 ## 💖 Lo que me apasiona
 
