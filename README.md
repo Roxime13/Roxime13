@@ -12,6 +12,10 @@ Aquí hay un poco más sobre mí:
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+🏢 Trabajo en Samsung Zhilabs (Samsung Networks)
+
+Actualmente trabajo como Entry UI Software Engineer en Samsung Zhilabs, una compañía del grupo Samsung Networks. Mi rol se centra en el desarrollo de soluciones de interfaz de usuario (UI), tanto en el lado front-end como back-end, para herramientas internas y productos destinados a clientes finales del sector telecomunicaciones.
+
 
 ## 💖 Lo que me apasiona
 
