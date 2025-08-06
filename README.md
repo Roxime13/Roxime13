@@ -15,7 +15,7 @@ Aquí hay un poco más sobre mí:
 #  🏢 **Trabajo en Samsung Zhilabs (Samsung Networks)**
 Actualmente trabajo como Entry UI Software Engineer en Samsung Zhilabs, una compañía parte de Samsung Networks, del grupo Samsung Electronics.
 
-Formo parte del equipo de desarrollo front-end del producto estrella de la compañía, contribuyendo al diseño y construcción de interfaces de usuario intuitivas y eficientes. Además, desempeño funciones en el desarrollo de soluciones UI tanto en front-end como en back-end, para herramientas internas y productos destinados a clientes finales en el sector telecomunicaciones.
+Formo parte del equipo de desarrollo front-end de la compañía, contribuyendo al diseño y construcción de interfaces de usuario intuitivas y eficientes. Además, desempeño funciones en el desarrollo de soluciones UI tanto en front-end como en back-end, para herramientas internas y productos destinados a clientes finales en el sector telecomunicaciones.
 
 
 ## 💖 Lo que me apasiona
