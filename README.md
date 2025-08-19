@@ -1,4 +1,4 @@
-# 🌟 **¡Hola, soy Sandra R.  !** 🌟
+# 🌟 **¡Hola, soy Sandra  !** 🌟
 
 ## 🌈 **Sobre Mí** 🌈
 
