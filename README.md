@@ -61,12 +61,10 @@ Aquí hay un poco más sobre mí:
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-  ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,scala,python,php,cs,js,nodejs,tailwind,bootstrap,mysql,postgresql,mongodb,aws,git" />
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=scala,js,python,bash,powershell,php,cs,react,angular,laravel,flask,tailwind,bootstrap,nodejs,ionic,mysql,postgresql,sqlite,mongodb,aws,git" />
 </p>
-
-
 
 ## 📚 **Proyectos Destacados**
 
