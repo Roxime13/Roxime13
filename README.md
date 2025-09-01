@@ -85,17 +85,25 @@ Descripción:Aplicación para la gestión completa de una clínica veterinaria, 
 
 Descripción:Calculadora web para realizar operaciones matemáticas básicas, desarrollada para practicar y demostrar habilidades en JavaScript y diseño responsive.
   
-## 📈 **Mis Estadísticas de GitHub** 📈
+## 📈 Estadísticas de GitHub
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1)](https://github.com/Roxime13)
+<!-- Stats principales al lado de Trophy -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1" width="45%" />
+</p>
 
-  [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true)
+<!-- Lenguajes y Activity Graph al lado -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="45%" />
+</p>
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark)
-  
-  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
+<!-- Streak y contador de visitas al lado -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=Roxime13&color=blue&style=flat-square&label=VISITAS" width="45%" />
+</p>
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
 
