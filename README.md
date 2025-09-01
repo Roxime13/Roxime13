@@ -89,9 +89,12 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1)](https://github.com/Roxime13)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
-
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
+  [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true)](https://github.com/Roxime13)
+  https://github-readme-streak-stats.herokuapp.com/?user=Roxime13&theme=dark&hide_border=true
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true)
+  
+  [![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact)](https://github.com/Roxime13)
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
 
