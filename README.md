@@ -87,22 +87,21 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
   
 ## 📈 Estadísticas de GitHub
 
-<!-- Stats principales al lado de Trophy -->
+<!-- Stats generales y Trophy -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Roxime13&theme=onedark&row=1" width="48%" />
 </p>
 
-<!-- Lenguajes y Activity Graph al lado -->
+<!-- Lenguajes y Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact" width="45%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="48%" />
 </p>
 
-<!-- Streak y contador de visitas al lado -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true" width="45%" />
-  <img src="https://komarev.com/ghpvc/?username=Roxime13&color=blue&style=flat-square&label=VISITAS" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true" width="30%" />
 </p>
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
