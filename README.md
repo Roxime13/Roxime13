@@ -97,10 +97,6 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Roxime13&theme=dark&hide_border=true" width="30%" />
-</p>
-
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
 
