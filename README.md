@@ -27,14 +27,6 @@ Aquí hay un poco más sobre mí:
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## 🎧La música que escucho 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/sanrulljar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=1000" alt="Spotify recientemente escuchado" />
-  </a>
-</div>
-
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
 - **Lenguajes de Programación:**
@@ -70,24 +62,26 @@ Aquí hay un poco más sobre mí:
   <img src="https://skillicons.dev/icons?i=scala,js,python,bash,powershell,php,cs,react,angular,laravel,flask,tailwind,bootstrap,nodejs,ionic,mysql,postgresql,sqlite,mongodb,aws,git" />
 </p>
 
-## 📚 **Proyectos Destacados**
+## 🚀 Proyectos Destacados
 
-### 1. **Proyecto Formulario básico: Gestión de una clínica veterinaria**
-🔗 [Clínica veterinaria](https://formularibasic.netlify.app/)
+### 🐾 **Clínica Veterinaria – CRUD React**
+🔗 [Visitar Proyecto](https://formularibasic.netlify.app/)
+
+Aplicación para la gestión completa de una clínica veterinaria: registro, edición y eliminación de pacientes.  
+Enfocada en un flujo intuitivo y diseño responsivo.  
+> 🧠 *Stack:* React, Tailwind CSS, Hooks, localStorage
 
 ![veterinaria](https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df)
 
-Descripción:Aplicación para la gestión completa de una clínica veterinaria, permitiendo el alta y baja de pacientes, y la administración completa mediante un CRUD. Desarrollada con React.
-
 ---
 
-### 2. **Calculadora:**
-🔗 [calculadora](https://calculadoraop.netlify.app/)
+### 🧮 **Calculadora Minimalista**
+🔗 [Ver Proyecto](https://calculadoraop.netlify.app/)
+
+Calculadora responsive construida con **JavaScript** y diseño limpio para reforzar lógica de operaciones y UI adaptable.  
+> 🎨 *Stack:* HTML, CSS, JavaScript  
 
 ![calculadora](https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1)
-
-
-Descripción:Calculadora web para realizar operaciones matemáticas básicas, desarrollada para practicar y demostrar habilidades en JavaScript y diseño responsive.
   
 ## 📈 Estadísticas de GitHub
 
@@ -100,6 +94,15 @@ Descripción:Calculadora web para realizar operaciones matemáticas básicas, de
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="48%" />
 </p>
+
+
+## 🎧La música que escucho 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/sanrulljar">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=1000" alt="Spotify recientemente escuchado" />
+  </a>
+</div>
 
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
