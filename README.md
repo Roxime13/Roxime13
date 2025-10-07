@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy <strong>Sandra Rull</strong>!</h1>
+<h1 align="center">👋 ¡Hola, soy <strong>Sandra </strong>!</h1>
 <h3 align="center">🎨 UI Software Engineer | Front-End Developer | UX & Cloud Enthusiast</h3>
 
 <p align="center">
