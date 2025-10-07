@@ -12,7 +12,7 @@ Combino diseño y desarrollo para ofrecer experiencias digitales centradas en el
 
 📚 Actualmente estoy ampliando mis conocimientos en **AWS Cloud Practitioner Essentials**  
 💡 Siempre explorando nuevas formas de unir **tecnología + creatividad**  
-🎮 Fan de los videojuegos, la música y el aprendizaje continuo ****
+🎮 Fan de los videojuegos, la música y el aprendizaje continuo
 ✨ Crear interfaces visuales atractivas y funcionales usando tecnologías modernas  
 📊 Resolver problemas lógicos y desafíos técnicos complejos  
 📚 Leer y escribir historias que inspiren, reflexionen y entretengan  
