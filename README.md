@@ -5,28 +5,27 @@
   <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
 </p>
 
-## 🌈 **Sobre Mí** 🌈
+## 💫 Sobre Mí
 
-¡Bienvenido a mi rincón en GitHub! Soy **[Sandra R]**, una **[Desarrolladora web]** con un amor tanto por **[FrontEnd]** como **[BackEnd]** 
+Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
+Combino diseño y desarrollo para ofrecer experiencias digitales centradas en el usuario, cuidando cada detalle —desde la arquitectura de componentes hasta el pixel final.  
 
-![chica programando](https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif)       
+📚 Actualmente estoy ampliando mis conocimientos en **AWS Cloud Practitioner Essentials**  
+💡 Siempre explorando nuevas formas de unir **tecnología + creatividad**  
+🎮 Fan de los videojuegos, la música y el aprendizaje continuo ****
+✨ Crear interfaces visuales atractivas y funcionales usando tecnologías modernas  
+📊 Resolver problemas lógicos y desafíos técnicos complejos  
+📚 Leer y escribir historias que inspiren, reflexionen y entretengan  
+🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
+🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
+⚛️ Mis tecnologías favoritas son React.js y Scala  
+🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento
 
 Aquí hay un poco más sobre mí:
 
 - ☁️ **Actualmente cursando:** **AWS Cloud Practitioner Essentials**
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## 💖 Lo que me apasiona
-
-- ✨ Crear interfaces visuales atractivas y funcionales usando tecnologías modernas  
-- 📊 Resolver problemas lógicos y desafíos técnicos complejos  
-- 📚 Leer y escribir historias que inspiren, reflexionen y entretengan  
-- 🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
-- 🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
-- ⚛️ Mis tecnologías favoritas son React.js y Scala  
-- 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento
-
 
 ## 🎧La música que escucho 
 
