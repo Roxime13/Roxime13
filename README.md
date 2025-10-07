@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola, soy <strong>Sandra </strong>!</h1>
-<h3 align="center">🎨 UI Software Engineer | Front-End Developer | UX & Cloud Enthusiast</h3>
+<h3 align="center">🎨 UI Software Engineer | Front-End Developer || Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
