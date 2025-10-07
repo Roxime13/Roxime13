@@ -1,4 +1,9 @@
-# 🌟 **¡Hola, soy Sandra  !** 🌟
+<h1 align="center">👋 ¡Hola, soy <strong>Sandra Rull</strong>!</h1>
+<h3 align="center">🎨 UI Software Engineer | Front-End Developer | UX & Cloud Enthusiast</h3>
+
+<p align="center">
+  <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
+</p>
 
 ## 🌈 **Sobre Mí** 🌈
 
