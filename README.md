@@ -17,7 +17,6 @@ Combino diseño y desarrollo para ofrecer experiencias digitales centradas en el
 📊 Resolver problemas lógicos y desafíos técnicos complejos  
 📚 Leer y escribir historias que inspiren, reflexionen y entretengan  
 🌐 Aprender nuevos frameworks, lenguajes y herramientas continuamente  
-🎮 Me encantan los videojuegos y todo lo relacionado con ellos  
 ⚛️ Mis tecnologías favoritas son React.js y Scala  
 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento
 
