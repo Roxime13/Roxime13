@@ -22,8 +22,7 @@
 
 ## 💫 Sobre Mí <a name="sobre-mi"></a>
 
-Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
-Combino diseño y desarrollo para ofrecer experiencias digitales centradas en el usuario, cuidando cada detalle —desde la arquitectura de componentes hasta el pixel final.  
+Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.   
 
 📚 Actualmente estoy ampliando mis conocimientos en **AWS Cloud Practitioner Essentials**  
 💡 Siempre explorando nuevas formas de unir **tecnología + creatividad**  
