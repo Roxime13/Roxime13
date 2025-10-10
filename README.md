@@ -34,7 +34,6 @@
   <a href="#charlamos-sobre-codigo-cafe-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
 
----
 
 ### 💫 Sobre Mí
 Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
@@ -148,8 +147,6 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
   <a href="#music-i-listen-to"><img src="https://img.shields.io/badge/🎧_Music-9370db?style=for-the-badge" /></a>
   <a href="#lets-chat-about-code-coffee-or-both"><img src="https://img.shields.io/badge/☕_Contact-ffa07a?style=for-the-badge" /></a>
 </p>
-
----
 
 ### 💫 About Me
 I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant, functional, and accessible interfaces**.  
