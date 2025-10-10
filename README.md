@@ -1,4 +1,16 @@
 <h1 align="center">👋 ¡Hola, soy Sandra! / Hi, I'm Sandra!</h1>
+<h3 align="center">🎨 UI Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
+</p>
+
+---
+
+<p align="center">
+  👋 Welcome! / ¡Bienvenido/a!  
+  Choose your language / Elige tu idioma:
+</p>
 
 <p align="center">
   <a href="#español">🇪🇸 Español</a> | 
