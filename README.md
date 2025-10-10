@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  👋 Welcome! / ¡Bienvenido/a!  
+  👋 Welcome! / ¡Bienvenido/a! <br>
   Choose your language / Elige tu idioma:
 </p>
 
