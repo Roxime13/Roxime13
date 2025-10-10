@@ -78,7 +78,7 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos Destacados <a name="#proyectos"></a>
 
 #### 🐾 Clínica Veterinaria – CRUD React
 🔗 [Visitar Proyecto](https://formularibasic.netlify.app/)  
@@ -100,7 +100,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 Estadísticas de GitHub <a name="#estadisticas"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="48%" />
@@ -114,7 +114,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-### 🎧 La música que escucho
+### 🎧 La música que escucho <a name="#musica"></a>
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
@@ -124,7 +124,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-### ☕ ¿Charlamos sobre código, café o ambos? <a name="charlamos-sobre-codigo-cafe-o-ambos"></a> 
+### ☕ ¿Charlamos sobre código, café o ambos? <a name="contacto"></a> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandra-rull-jariod-115899265/">
