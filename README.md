@@ -26,16 +26,16 @@
 ## 🇪🇸 Español <a name="español"></a>
 
 <p align="center">
-  <a href="-sobre-mi"><img src="https://img.shields.io/badge/Sobre_Mi-ffb6c1?style=for-the-badge" /></a>
-  <a href="-herramientas-magicas"><img src="https://img.shields.io/badge/Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
-  <a href="-proyectos"><img src="https://img.shields.io/badge/Proyectos-ffd700?style=for-the-badge" /></a>
-  <a href="-estadisticas"><img src="https://img.shields.io/badge/Estadisticas-90ee90?style=for-the-badge" /></a>
-  <a href="-musica"><img src="https://img.shields.io/badge/Musica-9370db?style=for-the-badge" /></a>
-  <a href="-contacto"><img src="https://img.shields.io/badge/Contacto-ffa07a?style=for-the-badge" /></a>
+  <a href="#sobre-mi"><img src="https://img.shields.io/badge/Sobre_Mi-ffb6c1?style=for-the-badge" /></a>
+  <a href="#herramientas-magicas"><img src="https://img.shields.io/badge/Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
+  <a href="#proyectos"><img src="https://img.shields.io/badge/Proyectos-ffd700?style=for-the-badge" /></a>
+  <a href="#estadisticas"><img src="https://img.shields.io/badge/Estadisticas-90ee90?style=for-the-badge" /></a>
+  <a href="#musica"><img src="https://img.shields.io/badge/Musica-9370db?style=for-the-badge" /></a>
+  <a href="#contacto"><img src="https://img.shields.io/badge/Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
 
 
-### 💫 Sobre Mí
+### 💫 Sobre Mí <a name="sobre-mi"></a>
 Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
 ✨ Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.  
 💡 Transformando ideas en proyectos funcionales mientras exploro nuevas tecnologías.  
@@ -46,7 +46,7 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 
 ---
 
-### 🎨 Mis Herramientas Mágicas
+### 🎨 Mis Herramientas Mágicas <a name="herramientas-magicas"></a>
 
 **Lenguajes de Programación:**  
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
