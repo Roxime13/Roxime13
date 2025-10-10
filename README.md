@@ -5,6 +5,23 @@
   <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
 </p>
 
+---
+
+## 📚 Navegación
+
+💫 [Sobre Mí](#-sobre-mí)  
+🎨 [Mis Herramientas Mágicas](#-mis-herramientas-mágicas)  
+🚀 [Proyectos Destacados](#-proyectos-destacados)  
+📈 [Estadísticas](#-estadísticas-de-github)  
+🎧 [Música que escucho](#-la-música-que-escucho)  
+☕ [Contacto](#-charlamos-sobre-código-café-o-ambos)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR1su5T2Sje6m5G/giphy.gif" width="180">
+</p>
+
+---
+
 ## 💫 Sobre Mí
 
 Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
@@ -27,6 +44,8 @@ Aquí hay un poco más sobre mí:
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+---
+
 ## 🎨 **Mis Herramientas Mágicas** 🎨
 
 - **Lenguajes de Programación:**
@@ -39,7 +58,7 @@ Aquí hay un poco más sobre mí:
   ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
 
 - **Frameworks y Librerías:**
-   ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
+  ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=ffffff)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -57,10 +76,15 @@ Aquí hay un poco más sobre mí:
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+---
+
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=scala,js,python,bash,powershell,php,cs,react,angular,laravel,flask,tailwind,bootstrap,nodejs,ionic,mysql,postgresql,sqlite,mongodb,aws,git" />
 </p>
+
+---
 
 ## 🚀 Proyectos Destacados
 
@@ -82,7 +106,9 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 > 🎨 *Stack:* HTML, CSS, JavaScript  
 
 ![calculadora](https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1)
-  
+
+---
+
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
@@ -95,8 +121,9 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roxime13&theme=react-dark" width="48%" />
 </p>
 
+---
 
-## 🎧La música que escucho 
+## 🎧 La música que escucho 
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
@@ -104,7 +131,11 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
   </a>
 </div>
 
+---
 
 ## ☕ ¿Charlamos sobre código, café o ambos?
 
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
+
+✨ *Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.*
+
