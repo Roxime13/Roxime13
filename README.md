@@ -33,6 +33,7 @@
   <a href="#la-musica-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
   <a href="#charlamos-sobre-codigo-cafe-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
+
 ---
 
 ### 💫 Sobre Mí
