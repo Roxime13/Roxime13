@@ -118,7 +118,11 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ### ☕ ¿Charlamos sobre código, café o ambos? <a name="charlamos-sobre-codigo-cafe-o-ambos"></a> 
 
-🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandra-rull-jariod-115899265/">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ✨ Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. 
 
@@ -221,7 +225,11 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 ### ☕ Let's Chat About Code, Coffee, or Both <a name="lets-chat-about-code-coffee-or-both"></a>
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandra-rull-jariod-115899265/">
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ✨ Always open to new opportunities, collaborations, or just chatting about technology. 
 
