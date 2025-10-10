@@ -35,8 +35,6 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 ⚛️ Mis tecnologías favoritas son React.js y Scala  
 🧩 Enfrentar problemas que representen retos personales y oportunidades de crecimiento
 
-Aquí hay un poco más sobre mí:
-
 - ☁️ **Actualmente cursando:** **AWS Cloud Practitioner Essentials**
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
