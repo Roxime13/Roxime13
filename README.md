@@ -6,20 +6,21 @@
 </p>
 
 ---
+
 ## 📚 Navegación  
 
 <p align="center">
-  <a href="#💫-sobre-mí"><img src="https://img.shields.io/badge/💫_Sobre_Mí-ffb6c1?style=for-the-badge" /></a>
-  <a href="#-mis-herramientas-mágicas-🎨"><img src="https://img.shields.io/badge/🎨_Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
-  <a href="#-proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-ffd700?style=for-the-badge" /></a>
-  <a href="#-estadísticas-de-github"><img src="https://img.shields.io/badge/📈_Estadísticas-90ee90?style=for-the-badge" /></a>
-  <a href="#-la-música-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
-  <a href="#-charlamos-sobre-código-café-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
+  <a href="#sobre-mi"><img src="https://img.shields.io/badge/💫_Sobre_Mí-ffb6c1?style=for-the-badge" /></a>
+  <a href="#mis-herramientas-magicas"><img src="https://img.shields.io/badge/🎨_Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
+  <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-ffd700?style=for-the-badge" /></a>
+  <a href="#estadisticas-de-github"><img src="https://img.shields.io/badge/📈_Estadísticas-90ee90?style=for-the-badge" /></a>
+  <a href="#la-musica-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
+  <a href="#charlamos-sobre-codigo-cafe-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 💫 Sobre Mí
+## 💫 Sobre Mí <a name="sobre-mi"></a>
 
 Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
 Combino diseño y desarrollo para ofrecer experiencias digitales centradas en el usuario, cuidando cada detalle —desde la arquitectura de componentes hasta el pixel final.  
@@ -43,7 +44,7 @@ Aquí hay un poco más sobre mí:
 
 ---
 
-## 🎨 **Mis Herramientas Mágicas** 🎨
+## 🎨 Mis Herramientas Mágicas <a name="mis-herramientas-magicas"></a>
 
 - **Lenguajes de Programación:**
   ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
@@ -83,7 +84,7 @@ Aquí hay un poco más sobre mí:
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados <a name="proyectos-destacados"></a>
 
 ### 🐾 **Clínica Veterinaria – CRUD React**
 🔗 [Visitar Proyecto](https://formularibasic.netlify.app/)
@@ -106,7 +107,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas de GitHub <a name="estadisticas-de-github"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="48%" />
@@ -120,7 +121,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-## 🎧 La música que escucho 
+## 🎧 La música que escucho <a name="la-musica-que-escucho"></a>
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
@@ -130,9 +131,10 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-## ☕ ¿Charlamos sobre código, café o ambos?
+## ☕ ¿Charlamos sobre código, café o ambos? <a name="charlamos-sobre-codigo-cafe-o-ambos"></a>
 
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
 
 ✨ *Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.*
+
 
