@@ -114,7 +114,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-### 🎧 La música que escucho <a name="#musica"></a>
+### 🎧 La música que escucho <a name="musica"></a>
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
@@ -145,10 +145,10 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
   <a href="#featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-ffd700?style=for-the-badge" /></a>
   <a href="#github-stats"><img src="https://img.shields.io/badge/📈_Stats-90ee90?style=for-the-badge" /></a>
   <a href="#music-i-listen-to"><img src="https://img.shields.io/badge/🎧_Music-9370db?style=for-the-badge" /></a>
-  <a href="#lets-chat-about-code-coffee-or-both"><img src="https://img.shields.io/badge/☕_Contact-ffa07a?style=for-the-badge" /></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/☕_Contact-ffa07a?style=for-the-badge" /></a>
 </p>
 
-### 💫 About Me
+### 💫 About Me <a name="about-me"></a>
 I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant, functional, and accessible interfaces**.  
 ✨ Always open to new opportunities, collaborations, or just chatting about technology.  
 💡 Turning ideas into functional projects while exploring new technologies.  
@@ -159,7 +159,7 @@ I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant
 
 ---
 
-### 🎨 My Magic Tools
+### 🎨 My Magic Tools <a name="my-magic-tools"></a>
 
 **Programming Languages:**  
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
@@ -191,7 +191,7 @@ I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects <a name="featured-projects"></a>
 
 #### 🐾 Veterinary Clinic – CRUD React
 🔗 [Visit Project](https://formularibasic.netlify.app/)  
@@ -213,7 +213,7 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats <a name="github-stats"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="48%" />
@@ -227,7 +227,7 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 ---
 
-### 🎧 Music I Listen To
+### 🎧 Music I Listen To <a name="music-i-listen-to"></a>
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
@@ -237,7 +237,7 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 ---
 
-### ☕ Let's Chat About Code, Coffee, or Both <a name="lets-chat-about-code-coffee-or-both"></a>
+### ☕ Let's Chat About Code, Coffee, or Both <a name="contact"></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandra-rull-jariod-115899265/">
