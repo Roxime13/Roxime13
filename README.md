@@ -132,6 +132,6 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 📎 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandra-rull-jariod-115899265/)
 
-✨ *Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.*
+✨ Always open to new opportunities, collaborations, or just chatting about technology.
 
 
