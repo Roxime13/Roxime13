@@ -9,12 +9,12 @@
 ## 📚 Navegación  
 
 <p align="center">
-  <a href="#sobre-mi"><img src="https://img.shields.io/badge/💫_Sobre_Mí-ffb6c1?style=for-the-badge" /></a>
-  <a href="#mis-herramientas-magicas"><img src="https://img.shields.io/badge/🎨_Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
-  <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-ffd700?style=for-the-badge" /></a>
-  <a href="#estadisticas-de-github"><img src="https://img.shields.io/badge/📈_Estadísticas-90ee90?style=for-the-badge" /></a>
-  <a href="#la-musica-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
-  <a href="#charlamos-sobre-codigo-cafe-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
+  <a href="#💫-sobre-mí"><img src="https://img.shields.io/badge/💫_Sobre_Mí-ffb6c1?style=for-the-badge" /></a>
+  <a href="#-mis-herramientas-mágicas-🎨"><img src="https://img.shields.io/badge/🎨_Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
+  <a href="#-proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-ffd700?style=for-the-badge" /></a>
+  <a href="#-estadísticas-de-github"><img src="https://img.shields.io/badge/📈_Estadísticas-90ee90?style=for-the-badge" /></a>
+  <a href="#-la-música-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
+  <a href="#-charlamos-sobre-código-café-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
 
 ---
