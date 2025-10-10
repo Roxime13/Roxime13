@@ -17,10 +17,6 @@
   <a href="#charlamos-sobre-codigo-cafe-o-ambos"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR1su5T2Sje6m5G/giphy.gif" width="180" alt="Animated divider" />
-</p>
-
 ---
 
 ## 💫 Sobre Mí
