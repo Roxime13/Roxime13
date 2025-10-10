@@ -118,7 +118,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=1000" alt="Spotify recientemente escuchado" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=800" alt="Spotify recientemente escuchado" />
   </a>
 </div>
 
@@ -231,7 +231,7 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 <div align="center">
   <a href="https://open.spotify.com/user/sanrulljar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=1000" alt="Recently Played on Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=sanrulljar&count=5&width=800" alt="Recently Played on Spotify" />
   </a>
 </div>
 
