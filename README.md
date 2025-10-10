@@ -85,10 +85,18 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 Aplicación para la gestión completa de una clínica veterinaria: registro, edición y eliminación de pacientes.  
 > 🧠 *Stack:* React, Tailwind CSS, Hooks, localStorage  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" alt="Clínica Veterinaria" width="450"/>
+</p>
+
 #### 🧮 Calculadora Minimalista
 🔗 [Ver Proyecto](https://calculadoraop.netlify.app/)  
 Calculadora responsive construida con **JavaScript** y diseño limpio para reforzar lógica de operaciones y UI adaptable.  
 > 🎨 *Stack:* HTML, CSS, JavaScript  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" alt="Calculadora Minimalista" width="450"/>
+</p>
 
 ---
 
@@ -187,15 +195,23 @@ I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant
 
 ### 🚀 Featured Projects
 
-#### 🐾 Clínica Veterinaria – CRUD React
+#### 🐾 Veterinary Clinic – CRUD React
 🔗 [Visit Project](https://formularibasic.netlify.app/)  
 Application for managing a veterinary clinic: registering, editing, and deleting patients.  
 > 🧠 *Stack:* React, Tailwind CSS, Hooks, localStorage  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" alt="Veterinary Clinic" width="450"/>
+</p>
 
 #### 🧮 Minimalist Calculator
 🔗 [View Project](https://calculadoraop.netlify.app/)  
 Responsive calculator built with **JavaScript** and clean design to strengthen operation logic and adaptable UI.  
 > 🎨 *Stack:* HTML, CSS, JavaScript  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" alt="Minimalist Calculator" width="450"/>
+</p>
 
 ---
 
