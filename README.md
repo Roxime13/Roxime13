@@ -25,14 +25,12 @@
 
 ## 🇪🇸 Español <a name="español"></a>
 
-<p align="center">
-  <a href="#sobre-mi"><img src="https://img.shields.io/badge/💫_Sobre_Mi-ffb6c1?style=for-the-badge" /></a>
-  <a href="#mis-herramientas-magicas"><img src="https://img.shields.io/badge/🎨_Herramientas_Mágicas-87cefa?style=for-the-badge" /></a>
-  <a href="#proyectos-destacados"><img src="https://img.shields.io/badge/🚀_Proyectos-ffd700?style=for-the-badge" /></a>
-  <a href="#estadisticas-de-github"><img src="https://img.shields.io/badge/📈_Estadísticas-90ee90?style=for-the-badge" /></a>
-  <a href="#la-musica-que-escucho"><img src="https://img.shields.io/badge/🎧_Música-9370db?style=for-the-badge" /></a>
-  <a href="#contacto"><img src="https://img.shields.io/badge/☕_Contacto-ffa07a?style=for-the-badge" /></a>
-</p>
+<h3 id="sobre-mi">💫 Sobre Mí</h3>
+<h3 id="herramientas-magicas">🎨 Mis Herramientas Mágicas</h3>
+<h3 id="proyectos">🚀 Proyectos Destacados</h3>
+<h3 id="estadisticas">📈 Estadísticas de GitHub</h3>
+<h3 id="musica">🎧 La música que escucho</h3>
+<h3 id="contacto">☕ Charlamos sobre código, café o ambos</h3>
 
 ### 💫 Sobre Mí
 Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcionales y accesibles**.  
