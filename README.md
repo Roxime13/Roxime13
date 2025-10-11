@@ -190,7 +190,7 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 
 ---
 
-### 🚀 Proyectos Destacados <a name="#proyectos"></a>
+### 🚀 Proyectos Destacados <a name="proyectos"></a>
 
 #### 🐾 Clínica Veterinaria – CRUD React
 🔗 [Visitar Proyecto](https://formularibasic.netlify.app/)  
@@ -212,7 +212,7 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ---
 
-### 📈 Estadísticas de GitHub <a name="#estadisticas"></a>
+### 📈 Estadísticas de GitHub <a name="estadisticas"></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true" width="48%" />
