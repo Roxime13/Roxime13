@@ -131,6 +131,8 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
   </a>
 </p>
 
+✨ Always open to new opportunities, collaborations, or just chatting about technology. 
+
 ---
 
 ## 🇪🇸 Español <a name="español"></a>
@@ -243,9 +245,6 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 </p>
 
 ✨ Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. 
-
-
-✨ Always open to new opportunities, collaborations, or just chatting about technology. 
 
 
 
