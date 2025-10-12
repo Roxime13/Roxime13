@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Sandra! / Hi, I'm Sandra!</h1>
+<h1 align="center">👋 Hi, I'm Sandra! / ¡Hola, soy Sandra! /</h1>
 <h3 align="center">🎨 UI Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
