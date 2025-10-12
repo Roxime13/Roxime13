@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="#español">
-    <img src="https://img.shields.io/badge/🇪🇸_Español-ffb6c1?style=for-the-badge&logo=appveyor" alt="Español" />
-  </a>
   <a href="#english">
     <img src="https://img.shields.io/badge/🇺🇸_English-87cefa?style=for-the-badge&logo=appveyor" alt="English" />
+  </a>
+  <a href="#español">
+    <img src="https://img.shields.io/badge/🇪🇸_Español-ffb6c1?style=for-the-badge&logo=appveyor" alt="Español" />
   </a>
 </p>
 
