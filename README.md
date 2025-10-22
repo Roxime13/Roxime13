@@ -2,6 +2,12 @@
 <h3 align="center">🎨 UI Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=🎨+UI+Software+Engineer;💻+Full+Stack+Developer;🚀+Always+learning+new+technologies;✨+Turning+ideas+into+beautiful+code" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://pa1.narvii.com/6351/4e4bf1091ab8fb141ee9db56510e779486b5865e_hq.gif" alt="Coding Girl" width="350" />
 </p>
 
