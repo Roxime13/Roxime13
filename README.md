@@ -1,6 +1,4 @@
 <h1 align="center">👋 Hi, I'm Sandra! / ¡Hola, soy Sandra!</h1>
-<h3 align="center">🎨 UI Software Engineer | Full Stack Developer</h3>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=87CEFA&center=true&vCenter=true&width=500&lines=UI+Engineer+%7C+Full+Stack+Developer;Always+learning+new+technologies;Turning+ideas+into+beautiful+code" alt="Typing SVG" />
