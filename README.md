@@ -138,10 +138,6 @@ Responsive calculator built with **JavaScript** and clean design to strengthen o
 
 ✨ Always open to new opportunities, collaborations, or just chatting about technology. 
 
-<p align="center">
-  <img src="https://github.com/Roxime13/Roxime13/blob/output/snake.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 🇪🇸 Español <a name="español"></a>
