@@ -2,7 +2,7 @@ name: Generate Realistic Snake Animations
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Ejecuta todos los días a medianoche
   workflow_dispatch:
   push:
     branches:
@@ -24,22 +24,21 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Roxime13
-          outputs: dist/snake-realistic.svg
-          color_snake: "#4B5320"         
-          color_dots: "#A0522D"           
-          background: "#F5F5DC"          
-          speed: 1.2                      
+          outputs: dist/snake.svg         
+          color_snake: "#4B5320"           
+          color_dots: "#A0522D"            
+          background: "#F5F5DC"            
+          speed: 1.2                       
 
-      # 🌒 Versión oscura realista
       - name: Generar snake-realistic-dark.svg
         uses: Platane/snk@v3
         with:
           github_user_name: Roxime13
-          outputs: dist/snake-realistic-dark.svg
+          outputs: dist/snake-dark.svg
           palette: github-dark
           color_snake: "#556B2F"          
-          color_dots: "#8B4513"           
-          background: "#1C1C1C"         
+          color_dots: "#8B4513"          
+          background: "#1C1C1C"
           speed: 1.2
 
       - name: Listar archivos generados
