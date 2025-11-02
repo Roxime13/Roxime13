@@ -251,7 +251,10 @@ Calculadora responsive construida con **JavaScript** y diseño limpio para refor
 
 ✨ Siempre abierta a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología. 
 
-![snake gif](https://github.com/Roxime13/Roxime13/blob/output/snake.svg)
+<p align="center">
+  <img src="https://github.com/Roxime13/Roxime13/blob/output/snake.svg" alt="Snake animation" width="600"/>
+</p>
+
 
 
 
