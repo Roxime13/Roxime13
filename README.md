@@ -60,6 +60,7 @@ I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
 
 **Frameworks & Libraries:**  
 ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
@@ -72,6 +73,7 @@ I’m **Sandra**, a **UI Software Engineer** passionate about creating **elegant
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-2d6df1?style=flat&logo=phaser&logoColor=ffffff)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=ffffff)
 
 **Databases:**  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
@@ -173,6 +175,7 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat&logo=php&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
 
 **Frameworks y Librerías:**  
 ![Play Framework](https://img.shields.io/badge/Play%20Framework-2C3E50?style=flat&logo=play&logoColor=white)
@@ -185,6 +188,7 @@ Soy **UI Software Engineer** apasionada por crear **interfaces elegantes, funcio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-2d6df1?style=flat&logo=phaser&logoColor=ffffff)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=ffffff)
 
 **Bases de Datos:**  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
