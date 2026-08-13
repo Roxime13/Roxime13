@@ -8,10 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Barcelona-302b63?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/💼_Open_to_opportunities-2ea44f?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://komarev.com/ghpvc/?username=Roxime13&color=302b63&style=flat-square&label=Profile+views" />
   <a href="https://www.linkedin.com/in/sandra-rull-jariod-115899265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Roxime13"><img src="https://img.shields.io/github/followers/Roxime13?style=flat-square&label=Follow&labelColor=1a1a2e&color=302b63" /></a>
 </p>
 
 <p align="center">
@@ -23,15 +20,6 @@
 
 ## English <a name="english"></a>
 
-<p align="center">
-  <a href="#about-en"><img src="https://img.shields.io/badge/About-333333?style=flat-square" /></a>
-  <a href="#projects-en"><img src="https://img.shields.io/badge/Projects-333333?style=flat-square" /></a>
-  <a href="#stack-en"><img src="https://img.shields.io/badge/Tech_Stack-333333?style=flat-square" /></a>
-  <a href="#stats-en"><img src="https://img.shields.io/badge/Stats-333333?style=flat-square" /></a>
-  <a href="#contact-en"><img src="https://img.shields.io/badge/Contact-333333?style=flat-square" /></a>
-</p>
-
-<a name="about-en"></a>
 ### About
 
 I'm a UI Software Engineer focused on building clean, accessible, and functional interfaces. I like turning ideas into working products, and I'm always exploring new tools and technologies.
@@ -39,7 +27,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 🔭 Currently working on personal React and JavaScript projects
 ☁️ Currently studying **AWS Cloud Practitioner Essentials**
 
-<a name="projects-en"></a>
 ### Featured Projects
 
 <table>
@@ -61,7 +48,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 </tr>
 </table>
 
-<a name="stack-en"></a>
 ### Tech Stack
 
 <p align="left">
@@ -97,7 +83,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a name="stats-en"></a>
 ### GitHub Stats
 
 <p align="center">
@@ -119,7 +104,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 </p>
 </details>
 
-<a name="contact-en"></a>
 ### Contact
 
 <p align="left">
@@ -132,15 +116,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 
 ## Español <a name="espanol"></a>
 
-<p align="center">
-  <a href="#about-es"><img src="https://img.shields.io/badge/Sobre_mí-333333?style=flat-square" /></a>
-  <a href="#projects-es"><img src="https://img.shields.io/badge/Proyectos-333333?style=flat-square" /></a>
-  <a href="#stack-es"><img src="https://img.shields.io/badge/Stack-333333?style=flat-square" /></a>
-  <a href="#stats-es"><img src="https://img.shields.io/badge/Estadísticas-333333?style=flat-square" /></a>
-  <a href="#contact-es"><img src="https://img.shields.io/badge/Contacto-333333?style=flat-square" /></a>
-</p>
-
-<a name="about-es"></a>
 ### Sobre mí
 
 Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles y funcionales. Me gusta transformar ideas en productos reales, siempre explorando nuevas herramientas y tecnologías.
@@ -148,7 +123,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 🔭 Actualmente trabajando en proyectos personales de React y JavaScript
 ☁️ Actualmente cursando **AWS Cloud Practitioner Essentials**
 
-<a name="projects-es"></a>
 ### Proyectos destacados
 
 <table>
@@ -170,7 +144,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 </tr>
 </table>
 
-<a name="stack-es"></a>
 ### Stack Tecnológico
 
 <p align="left">
@@ -206,7 +179,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a name="stats-es"></a>
 ### Estadísticas de GitHub
 
 <p align="center">
@@ -228,7 +200,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 </p>
 </details>
 
-<a name="contact-es"></a>
 ### Contacto
 
 <p align="left">
@@ -244,3 +215,4 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </p>
+
