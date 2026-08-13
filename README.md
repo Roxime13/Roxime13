@@ -18,7 +18,29 @@
 
 I'm a UI Software Engineer focused on building clean, accessible, and functional interfaces. I like turning ideas into working products, and I'm always exploring new tools and technologies.
 
-Currently studying **AWS Cloud Practitioner Essentials** ☁️
+🔭 Currently working on personal React and JavaScript projects
+☁️ Currently studying **AWS Cloud Practitioner Essentials**
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" width="100%"/>
+<b><a href="https://formularibasic.netlify.app/">🐾 Veterinary Clinic — CRUD React</a></b><br/>
+<sub>Register, edit, and delete patient records for a veterinary clinic.</sub><br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" width="100%"/>
+<b><a href="https://calculadoraop.netlify.app/">🧮 Minimalist Calculator</a></b><br/>
+<sub>Responsive calculator built with vanilla JavaScript and clean logic.</sub><br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ### Tech Stack
 
@@ -55,27 +77,6 @@ Currently studying **AWS Cloud Practitioner Essentials** ☁️
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" width="100%"/>
-<b><a href="https://formularibasic.netlify.app/">🐾 Veterinary Clinic — CRUD React</a></b><br/>
-<sub>Register, edit, and delete patient records for a veterinary clinic.</sub><br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</td>
-<td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" width="100%"/>
-<b><a href="https://calculadoraop.netlify.app/">🧮 Minimalist Calculator</a></b><br/>
-<sub>Responsive calculator built with vanilla JavaScript and clean logic.</sub><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</td>
-</tr>
-</table>
-
 ### GitHub Stats
 
 <p align="center">
@@ -85,10 +86,6 @@ Currently studying **AWS Cloud Practitioner Essentials** ☁️
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roxime13&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <details>
@@ -115,7 +112,29 @@ Currently studying **AWS Cloud Practitioner Essentials** ☁️
 
 Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles y funcionales. Me gusta transformar ideas en productos reales, siempre explorando nuevas herramientas y tecnologías.
 
-Actualmente cursando **AWS Cloud Practitioner Essentials** ☁️
+🔭 Actualmente trabajando en proyectos personales de React y JavaScript
+☁️ Actualmente cursando **AWS Cloud Practitioner Essentials**
+
+### Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" width="100%"/>
+<b><a href="https://formularibasic.netlify.app/">🐾 Clínica Veterinaria — CRUD React</a></b><br/>
+<sub>Registro, edición y eliminación de pacientes de una clínica veterinaria.</sub><br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" width="100%"/>
+<b><a href="https://calculadoraop.netlify.app/">🧮 Calculadora Minimalista</a></b><br/>
+<sub>Calculadora responsive construida con JavaScript y lógica limpia.</sub><br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ### Stack Tecnológico
 
@@ -152,27 +171,6 @@ Actualmente cursando **AWS Cloud Practitioner Essentials** ☁️
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### Proyectos destacados
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/6ff4b588-0220-45ce-8a77-97f22dd943df" width="100%"/>
-<b><a href="https://formularibasic.netlify.app/">🐾 Clínica Veterinaria — CRUD React</a></b><br/>
-<sub>Registro, edición y eliminación de pacientes de una clínica veterinaria.</sub><br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</td>
-<td width="50%" valign="top">
-<img src="https://github.com/user-attachments/assets/bab58859-6d52-4030-898a-33c2fbf3aad1" width="100%"/>
-<b><a href="https://calculadoraop.netlify.app/">🧮 Calculadora Minimalista</a></b><br/>
-<sub>Calculadora responsive construida con JavaScript y lógica limpia.</sub><br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</td>
-</tr>
-</table>
-
 ### Estadísticas de GitHub
 
 <p align="center">
@@ -182,10 +180,6 @@ Actualmente cursando **AWS Cloud Practitioner Essentials** ☁️
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Roxime13&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 <details>
@@ -211,9 +205,3 @@ Actualmente cursando **AWS Cloud Practitioner Essentials** ☁️
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </p>
-
-
-
-
-
-
