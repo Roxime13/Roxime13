@@ -48,13 +48,6 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 </tr>
 </table>
 
-### More Repos
-
-<p align="center">
-  <a href="https://github.com/Roxime13/effective-scala-fireworks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roxime13&repo=effective-scala-fireworks&theme=tokyonight&hide_border=true" height="150"/></a>
-  <a href="https://github.com/Roxime13/Flask"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roxime13&repo=Flask&theme=tokyonight&hide_border=true" height="150"/></a>
-</p>
-
 ### Tech Stack
 
 <p align="left">
@@ -145,13 +138,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 </td>
 </tr>
 </table>
-
-### Más repositorios
-
-<p align="center">
-  <a href="https://github.com/Roxime13/effective-scala-fireworks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roxime13&repo=effective-scala-fireworks&theme=tokyonight&hide_border=true" height="150"/></a>
-  <a href="https://github.com/Roxime13/Flask"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roxime13&repo=Flask&theme=tokyonight&hide_border=true" height="150"/></a>
-</p>
 
 ### Stack Tecnológico
 
