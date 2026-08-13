@@ -86,12 +86,7 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roxime13&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <details>
@@ -182,12 +177,7 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roxime13&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roxime13&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxime13&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <details>
@@ -215,4 +205,3 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </p>
-
