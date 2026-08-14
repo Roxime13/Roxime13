@@ -78,7 +78,7 @@ I'm a UI Software Engineer focused on building clean, accessible, and functional
 <p align="left">
 <b>Databases</b><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTA5IDExMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNjMuNzA3NiAxMTAuMjg0QzYwLjg0ODEgMTEzLjg4NSA1NS4wNTAyIDExMS45MTIgNTQuOTgxMyAxMDcuMzE5TDUzLjk3MzggNDAuMDYyN0w5OS4xOTM1IDQwLjA2MjdDMTA3LjM4NCA0MC4wNjI3IDExMS45NTIgNDkuNTIyOCAxMDYuODU5IDU1LjkzNzRMNjMuNzA3NiAxMTAuMjg0WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNDUuMzE3IDIuMDcxMDNDNDguMTc2NSAtMS41MzAzNyA1My45NzQ1IDAuNDQyOTM3IDU0LjA0MzQgNS4wMzY0OEw1NC40ODQ5IDcyLjI5MjJIOS44MDY1QzEuNjE2MTggNzIuMjkyMiAtMi45NTA5OCA2Mi44MzIxIDIuMTQxMzMgNTYuNDE3NUw0NS4zMTcgMi4wNzEwM1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -170,7 +170,7 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 <p align="left">
 <b>Bases de datos</b><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTA5IDExMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNjMuNzA3NiAxMTAuMjg0QzYwLjg0ODEgMTEzLjg4NSA1NS4wNTAyIDExMS45MTIgNTQuOTgxMyAxMDcuMzE5TDUzLjk3MzggNDAuMDYyN0w5OS4xOTM1IDQwLjA2MjdDMTA3LjM4NCA0MC4wNjI3IDExMS45NTIgNDkuNTIyOCAxMDYuODU5IDU1LjkzNzRMNjMuNzA3NiAxMTAuMjg0WiIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNNDUuMzE3IDIuMDcxMDNDNDguMTc2NSAtMS41MzAzNyA1My45NzQ1IDAuNDQyOTM3IDU0LjA0MzQgNS4wMzY0OEw1NC40ODQ5IDcyLjI5MjJIOS44MDY1QzEuNjE2MTggNzIuMjkyMiAtMi45NTA5OCA2Mi44MzIxIDIuMTQxMzMgNTYuNDE3NUw0NS4zMTcgMi4wNzEwM1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
