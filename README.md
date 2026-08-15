@@ -169,12 +169,6 @@ Soy UI Software Engineer, especializada en crear interfaces limpias, accesibles 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
- 
-### Github stats
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roxime13&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 <details>
 <summary><b>🎧 What I'm listening to</b></summary>
@@ -281,12 +275,6 @@ Soy **UI Software Engineer** ubicada en Barcelona, especializada en transformar 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
- 
-### Estadísticas de GitHub
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roxime13&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <details>
