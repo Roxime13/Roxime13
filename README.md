@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:241F3D,50:2E2851,100:241F3D&height=220&section=header&text=Sandra%20Rull%20Jariod&fontSize=44&fontColor=F7F5EF&fontAlignY=36&desc=Construyo%20interfaces%20que%20la%20gente%20no%20nota%20que%20existen&descAlignY=55&descSize=15&descColor=C9BFE8&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:241F3D,50:2E2851,100:241F3D&height=220&section=header&text=Sandra%20Rull%20Jariod&fontSize=44&fontColor=F7F5EF&fontAlignY=36&desc=Convierto%20requisitos%20de%20producto%20en%20interfaces%20s%C3%B3lidas%20y%20mantenibles&descAlignY=55&descSize=15&descColor=C9BFE8&animation=fadeIn"
     width="100%"
     alt="Sandra Rull Jariod"
   />
