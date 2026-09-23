@@ -76,7 +76,14 @@ Desarrollo interfaces y soluciones frontend, participando en la construcción y 
 </tr>
 </table>
 
-> 🔗 Demos en vivo: [Clínica Veterinaria](https://formularibasic.netlify.app/) · [Calculadora Minimalista](https://calculadoraop.netlify.app/)
+<p align="center">
+  <a href="https://formularibasic.netlify.app/">
+    <img src="https://img.shields.io/badge/🐾_Clínica_Veterinaria_·_Ver_demo_↗-D98E2B?style=for-the-badge&labelColor=1a1730&color=D98E2B" alt="Demo Clínica Veterinaria" />
+  </a>
+  <a href="https://calculadoraop.netlify.app/">
+    <img src="https://img.shields.io/badge/🧮_Calculadora_·_Ver_demo_↗-8B7FD1?style=for-the-badge&labelColor=1a1730&color=8B7FD1" alt="Demo Calculadora Minimalista" />
+  </a>
+</p>
 
 <br/>
 
@@ -90,35 +97,52 @@ Desarrollo interfaces y soluciones frontend, participando en la construcción y 
 
 ## Stack tecnológico
 
-<details open>
-<summary><strong>▸ Lenguajes y frameworks</strong></summary>
-<br/>
+**Lenguajes**
 
 <p>
-<img src="https://img.shields.io/badge/JavaScript-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/TypeScript-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/React-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Node.js-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Python-151322?style=flat-square&labelColor=151322&color=2E2851"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 </p>
 
-</details>
-
-<details>
-<summary><strong>▸ Bases de datos y herramientas</strong></summary>
-<br/>
+**Frameworks y librerías**
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Supabase-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/MongoDB-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Git-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/AWS-151322?style=flat-square&labelColor=151322&color=2E2851"/>
-<img src="https://img.shields.io/badge/Kubernetes-151322?style=flat-square&labelColor=151322&color=2E2851"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>
 </p>
 
-</details>
+**Bases de datos**
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+**Herramientas**
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E"/>
+</p>
 
 <br/>
 
